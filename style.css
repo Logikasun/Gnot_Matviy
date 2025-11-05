@@ -1,0 +1,33 @@
+body{
+  font-family: sans-serif;
+  margin:20px;
+  background-color: lightgrey;
+
+}
+
+h1{
+    text-align:center;
+    background-color: blue;
+    border-radius: 10px;
+}
+h2{
+    text-align: center;
+    background-color: lightblue;
+}
+
+img{
+    width:200px;
+}
+
+footer{
+    text-align: center;
+    background-color: lightblue;
+}
+
+iframe{
+    margin-left: 300px;
+}
+
+.myimage{
+    text-align: center;
+}
